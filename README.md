@@ -1,4 +1,4 @@
-# Online Store - Customer Module
+# Online Utility Store Management System - Customer Module
 
 CS619 Prototype Assignment - Virtual University of Pakistan
 
